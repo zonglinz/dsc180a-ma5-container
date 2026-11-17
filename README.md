@@ -40,13 +40,4 @@ bash /usr/local/bin/verify-ma5
 ```
 
 Run the second command after the container has started. Exit the container when finished.
-
-## Gradescope submission
-
-After publishing, making the package public, and testing it, submit this path without a tag:
-
-```text
-ghcr.io/zonglinz/dsc180a-ma5-container
-```
-
 The presence of this README or the workflow source alone does not demonstrate a successful image build or submission; check the Actions run, public package, and Gradescope receipt.
