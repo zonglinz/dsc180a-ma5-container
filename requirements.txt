@@ -1,0 +1,8 @@
+# Keep the older babypandas release compatible with NumPy and pandas.
+numpy==1.24.4
+pandas==1.5.3
+geopandas==0.14.4
+babypandas==0.1.5
+fiona==1.9.6
+pyproj==3.6.1
+shapely==2.0.6
